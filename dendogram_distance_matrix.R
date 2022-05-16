@@ -2,9 +2,9 @@
 # This script loads a .csv of your NMJ data from NMJ-morph #
 # with additional columns for species, muscle and animal.  #
 # Animal is for example Mouse 1 L, Mouse 1 R (L = left,    #
-# R = right), or Cat 1 - Cat 9 etc...                      #
-# This allows comparison between species, muscles and      #
-# animals. Each row represents values for one NMJ.         #
+# R = right), or Cat 1 - Cat 9 etc...               This   #
+# allows comparison between species, muscles and animals   #
+# Each row represents average values for one muscle.       #
 ############################################################
 #########################
 ### LOAD DEPENDENCIES ###
