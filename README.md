@@ -15,6 +15,10 @@ mammalian species).
 All tissue from human studies were covered by the requisite ethics approvals (NHS 
 Lothian REC: 2002/1/22, 2002/R/OST/02; NHS Lothian BioResource: SR719, 15/ES/0094).
 
+## Repository file overview
+dendogram_distance_matrix.R ....... script to generate a Tanglegram
+PCA_muscavr.csv ................... average data from NMJ-morph/aNMJ-morph for each muscle from all species analysed
+
 ### KEYWORDS
 neuromuscular junction, NMJ-morph, aNMJ-morph, morphology, extensor digitorum longus, 
 peroneus longus, soleus
